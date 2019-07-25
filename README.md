@@ -18,7 +18,7 @@ So my tool just loop over all instructions of a code section buffer and replace 
 
 I will update this tool with a full executable modification (just specify the executable in args and this will change the section) when my [Serana Library](https://github.com/whereisr0da/Serana-Lib) have the modification update. 
 
-![](demo.gif)
+![](demo.png)
 
 ## Dependencies
 A cool C# disassembler lib : [SharpDisasm](https://github.com/spazzarama/SharpDisasm)
