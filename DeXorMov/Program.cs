@@ -13,9 +13,9 @@
  *
  *   Non-Commercial - You may not use the material (DeXoredMov's) for commercial purposes.
  *
- *   No-Derivatives - If you remix, transform, or build upon the material (Steamless), you may not distribute the
+ *   No-Derivatives - If you remix, transform, or build upon the material (DeXoredMov's), you may not distribute the
  *                    modified material. You are, however, allowed to submit the modified works back to the original
- *                    Steamless project in attempt to have it added to the original project.
+ *                    DeXoredMovs project in attempt to have it added to the original project.
  *
  * You may not apply legal terms or technological measures that legally restrict others
  * from doing anything the license permits.
