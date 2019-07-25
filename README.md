@@ -1,5 +1,5 @@
 # DeXoredMovs
-A xored mov's deobfuscator
+A xored mov's deobfuscator for intel x86 asm
 
 ## Intro
 
