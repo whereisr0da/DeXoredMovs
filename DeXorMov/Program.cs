@@ -45,7 +45,7 @@ namespace DeXoredMovs
         static string output = "";
 
         /// <summary>
-        /// Entrypoiny
+        /// Entrypoint
         /// </summary>
         /// <param name="args">arguments</param>
         static void Main(string[] args)
